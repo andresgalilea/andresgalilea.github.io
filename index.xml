@@ -35,66 +35,30 @@
     </item>
     
     <item>
-      <title>Entrega 00</title>
-      <link>https://andresgalilea.github.io/docs/entrega-00/</link>
+      <title>Encargo 00</title>
+      <link>https://andresgalilea.github.io/docs/encargo-00/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://andresgalilea.github.io/docs/entrega-00/</guid>
+      <guid>https://andresgalilea.github.io/docs/encargo-00/</guid>
       <description>REALIZADO: Hugo versión extended Instalado REALIZADO: Usuario de GitHub REALIZADO: Link a sitio web personal online github.io REALIZADO: Post en sitio personal con biografía y al menos 3 trabajos representativos personales REALIZADO: Responder formulario diagnóstico: https://forms.</description>
     </item>
     
     <item>
-      <title>Entrega 01</title>
-      <link>https://andresgalilea.github.io/docs/entrega-01/</link>
+      <title>Encargo 01</title>
+      <link>https://andresgalilea.github.io/docs/encargo-01/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://andresgalilea.github.io/docs/entrega-01/</guid>
+      <guid>https://andresgalilea.github.io/docs/encargo-01/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Entrega 02</title>
-      <link>https://andresgalilea.github.io/docs/entrega-02/</link>
+      <title>Encargo 02</title>
+      <link>https://andresgalilea.github.io/docs/encargo-02/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://andresgalilea.github.io/docs/entrega-02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entrega 03</title>
-      <link>https://andresgalilea.github.io/docs/entrega-03/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://andresgalilea.github.io/docs/entrega-03/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entrega 04</title>
-      <link>https://andresgalilea.github.io/docs/entrega-04/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://andresgalilea.github.io/docs/entrega-04/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entrega 05</title>
-      <link>https://andresgalilea.github.io/docs/entrega-05/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://andresgalilea.github.io/docs/entrega-05/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entrega 06</title>
-      <link>https://andresgalilea.github.io/docs/entrega-06/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://andresgalilea.github.io/docs/entrega-06/</guid>
-      <description></description>
+      <guid>https://andresgalilea.github.io/docs/encargo-02/</guid>
+      <description>Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });   Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.</description>
     </item>
     
   </channel>
