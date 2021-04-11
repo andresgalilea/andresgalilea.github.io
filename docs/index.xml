@@ -70,5 +70,41 @@
       <description>Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });</description>
     </item>
     
+    <item>
+      <title>Encargo 04</title>
+      <link>https://andresgalilea.github.io/docs/encargo-04/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://andresgalilea.github.io/docs/encargo-04/</guid>
+      <description>Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });</description>
+    </item>
+    
+    <item>
+      <title>Encargo 05</title>
+      <link>https://andresgalilea.github.io/docs/encargo-05/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://andresgalilea.github.io/docs/encargo-05/</guid>
+      <description>  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  </description>
+    </item>
+    
+    <item>
+      <title>Encargo 06</title>
+      <link>https://andresgalilea.github.io/docs/encargo-06/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://andresgalilea.github.io/docs/encargo-06/</guid>
+      <description>Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });</description>
+    </item>
+    
+    <item>
+      <title>Encargo 07 (Final Unidad 1)</title>
+      <link>https://andresgalilea.github.io/docs/encargo-07/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://andresgalilea.github.io/docs/encargo-07/</guid>
+      <description>Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });   Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.</description>
+    </item>
+    
   </channel>
 </rss>
