@@ -124,5 +124,23 @@
       <description>En ReCap, creo haber obtenido un buen resultado con mi plato clásico de arroz con pollo, solo teniendo problemas con la unión del mantel con mi plato, pero en las texturas y detalles en el arroz y pollo, resultaron buenas; como podemos observar en la siguiente imagen:</description>
     </item>
     
+    <item>
+      <title>Encargo 10 (Presentación de Lectura)</title>
+      <link>https://andresgalilea.github.io/docs/encargo-10/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://andresgalilea.github.io/docs/encargo-10/</guid>
+      <description>  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  </description>
+    </item>
+    
+    <item>
+      <title>Encargo 11</title>
+      <link>https://andresgalilea.github.io/docs/encargo-11/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://andresgalilea.github.io/docs/encargo-11/</guid>
+      <description>  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  </description>
+    </item>
+    
   </channel>
 </rss>
