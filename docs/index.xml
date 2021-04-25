@@ -134,12 +134,21 @@
     </item>
     
     <item>
-      <title>Encargo 11</title>
-      <link>https://andresgalilea.github.io/docs/encargo-11/</link>
+      <title>Encargo 11 (Post2.1)</title>
+      <link>https://andresgalilea.github.io/docs/encargo-11-post-2.1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://andresgalilea.github.io/docs/encargo-11/</guid>
-      <description>  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  </description>
+      <guid>https://andresgalilea.github.io/docs/encargo-11-post-2.1/</guid>
+      <description>Sketch y Revolve  [Molde] Comenzando con el primer tutorial, haciendo lo más básico en moldes. La verdad es que no me costo nada jugar con las distancias, ángulos, etc. Lo que me complico un poco fue variar en la forma y diseño, como recién nos estamos familiarizando con lo que vamos a realiza, intenté de pensar en algo nuevo y no pude.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 12 (Post2.2)</title>
+      <link>https://andresgalilea.github.io/docs/encargo-12-post-2.2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://andresgalilea.github.io/docs/encargo-12-post-2.2/</guid>
+      <description>Sketch y Revolve   [Molde] Comenzando con el primer tutorial, haciendo lo más básico en moldes. La verdad es que no me costo nada jugar con las distancias, ángulos, etc.</description>
     </item>
     
   </channel>
